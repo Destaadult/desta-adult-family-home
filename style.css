@@ -183,7 +183,7 @@ section {
     border-radius: 15px;
     transition: 0.3s;
 
-    filter: brightness(1.25) contrast(1.24) saturate(1.16);
+    filter: brightness(1.25) contrast(1.04) saturate(1.06);
    /* filter: brightness(100%) contrast(110%);*/
     image-rendering: auto;
 }

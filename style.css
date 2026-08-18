@@ -236,3 +236,29 @@ iframe {
         padding: 60px 5%;
     }
 }
+
+/* Larger Contact Information */
+#contact {
+    padding: 60px 20px;
+}
+
+#contact h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+#contact p {
+    font-size: 22px;
+    line-height: 1.8;
+    margin: 15px 0;
+}
+
+#contact a {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#contact iframe {
+    margin-top: 25px;
+}
+
